@@ -1,0 +1,16 @@
+{
+  "name": "react-native-creater",
+  "version": "1.0.0",
+  "description": "TODO:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "fs-extra": "^8.0.1",
+    "inquirer": "^6.3.1"
+  }
+}
